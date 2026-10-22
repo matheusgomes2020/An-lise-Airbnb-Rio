@@ -1,11 +1,5 @@
-# Xojo (formerly REALbasic and Real Studio)
-
-Builds*
-*.debug
-*.debug.app
-Debug*.exe
-Debug*/Debug*.exe
-Debug*/Debug*\ Libs
-*.rbuistate
-*.xojo_uistate
-*.obsolete*
+# 1. Ignorar bases de dados brutas e pesadas (Evita o erro de limite de 100MB do GitHub)
+*.csv
+*.txt
+*.xlsx
+*.zip
