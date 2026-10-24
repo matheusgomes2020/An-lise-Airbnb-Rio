@@ -44,6 +44,11 @@ Divisão da base em conjuntos de **Treino (80%)** e **Teste (20%)** via `train_t
 ### 5. Deploy com Streamlit
 Empacotamento do modelo otimizado (`joblib`) e construção de uma interface interativa onde o usuário preenche as características do imóvel e recebe instantaneamente a previsão do valor da diária.
 
+## 6. 📚 Créditos e Referências
+Desenvolvimento e Metodologia: Projeto prático desenvolvido durante a formação Python Impressionador da Hashtag Treinamentos, com adaptações e otimizações de código para compatibilidade com Pandas 2.0+/3.0 e gerenciamento eficiente de memória.
+
+Fonte de Dados e Inspiração: Conjunto de dados disponibilizado publicamente no Kaggle por Allan Bruno.
+
 ---
 
 ## 📂 Estrutura do Repositório
@@ -57,7 +62,4 @@ Empacotamento do modelo otimizado (`joblib`) e construção de uma interface int
 
 
 
-## 📚 Créditos e Referências
-Desenvolvimento e Metodologia: Projeto prático desenvolvido durante a formação Python Impressionador da Hashtag Treinamentos, com adaptações e otimizações de código para compatibilidade com Pandas 2.0+/3.0 e gerenciamento eficiente de memória.
 
-Fonte de Dados e Inspiração: Conjunto de dados disponibilizado publicamente no Kaggle por Allan Bruno.
