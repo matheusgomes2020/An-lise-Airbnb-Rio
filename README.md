@@ -57,8 +57,7 @@ Empacotamento do modelo otimizado (`joblib`) e construção de uma interface int
 
 
 
-
-📚 Créditos e Referências
+## 📚 Créditos e Referências
 Desenvolvimento e Metodologia: Projeto prático desenvolvido durante a formação Python Impressionador da Hashtag Treinamentos, com adaptações e otimizações de código para compatibilidade com Pandas 2.0+/3.0 e gerenciamento eficiente de memória.
 
 Fonte de Dados e Inspiração: Conjunto de dados disponibilizado publicamente no Kaggle por Allan Bruno.
